@@ -1,9 +1,16 @@
+nav{
+
+background-color: rgb(232, 68, 171);
+
+}
 body{
 background-color: pink;
+text-align: center;
+font-size: xx-large;
 
-
-
-
+}
+footer{
+background-color: rgb(232, 68, 171);
 
 
 }
